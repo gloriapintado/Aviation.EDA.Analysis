@@ -37,7 +37,7 @@ The models that have 4 engines or more are 747, the Heaviside2, B17. This airpla
 
 June, July, and August have high accident counts. There are too many flights around this time of the year and this can be a reason why accidents happen more. However, it can be due to the weather.
 
-![Weather vs Accidents](file:///Users/gloriapintado/Documents/Flatiron/Aviation%20Project/images/Accidents%20by%20Weather%20.png)
+![Weather vs Accidents]([file:///Users/gloriapintado/Documents/Flatiron/Aviation%20Project/images/Accidents%20by%20Weather%20.png](https://github.com/gloriapintado/Aviation.EDA.Analysis/blob/main/Aviation%20EDA/images/Accidents%20by%20Weather%20.png))
 
 - VMC: Visual flight, clear weather
 - IMC : Fly by a flight instrument and is usually in bad weather
