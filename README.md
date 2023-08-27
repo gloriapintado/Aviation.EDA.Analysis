@@ -18,26 +18,26 @@ This project uses mostly cleaning and sorting datasets in order to do descriptiv
 
 Though time the numbers of accidents have been decreasing:
 
-![Timeline of accidents](http://localhost:8888/edit/images/Timeline%20graph%20Aviation.png)
+![Timeline of accidents](https://github.com/gloriapintado/Aviation.EDA.Analysis/blob/main/images/Timeline%20graph%20Aviation.png)
 
 There has been a positive decrease thoughtout the years. This decrease can be cause by many factors. However at the ended of the line graph 
 it shows a little increase of accidents again.
 
-![Engine vs Accidents](http://localhost:8888/edit/images/Engines%20to%20accidents.png)
+![Engine vs Accidents](https://github.com/gloriapintado/Aviation.EDA.Analysis/blob/main/images/Engines%20to%20accidents.png)
 
  - Planes with fewer engines are more likely to crash!
  - As you May be able to see in BOEING brand have models with 4 engines.
 
 
-![Models with more engines](http://localhost:8888/edit/images/Models%20with%204%20or%20more%20engines.png)
+![Models with more engines](https://github.com/gloriapintado/Aviation.EDA.Analysis/blob/main/images/Models%20with%204%20or%20more%20engines.png)
 
 The models that have 4 engines or more are 747, the Heaviside2, B17. This airplanes that more engines are made in recent years starting 2015 mostly.
 
-![Accidents vs Month](http://localhost:8888/edit/images/Months%20vs%20Accidents.png)
+![Accidents vs Month](https://github.com/gloriapintado/Aviation.EDA.Analysis/blob/main/images/Months%20vs%20Accidents.png)
 
 June, July, and August have high accident counts. There are too many flights around this time of the year and this can be a reason why accidents happen more. However, it can be due to the weather.
 
-![Weather vs Accidents](http://localhost:8888/edit/images/Accidents%20by%20Weather%20.png)
+![Weather vs Accidents](https://github.com/gloriapintado/Aviation.EDA.Analysis/blob/main/images/Accidents%20by%20Weather%20.png)
 
 - VMC: Visual flight, clear weather
 - IMC : Fly by a flight instrument and is usually in bad weather
