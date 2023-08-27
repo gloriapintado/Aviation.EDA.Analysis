@@ -23,7 +23,7 @@ Though time the numbers of accidents have been decreasing:
 There has been a positive decrease thoughtout the years. This decrease can be cause by many factors. However at the ended of the line graph 
 it shows a little increase of accidents again.
 
-![Engine vs Accidents](Engines_to_accidents.png)
+![Engine vs Accidents](https://github.com/gloriapintado/Aviation.EDA.Analysis/blob/main/Aviation%20EDA/images/Timeline%20graph%20Aviation.png)
 
  - Planes with fewer engines are more likely to crash!
  - As you May be able to see in BOEING brand have models with 4 engines.
