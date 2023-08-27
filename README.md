@@ -3,8 +3,8 @@
 ## Business Problem
 
 MACB  company is expanding in to new industries to diversify its portfolio. And are they are interested in purchasing and operating airplanes for commercial and private enterprises.
-Which aircrafts have less risk to have accidents?
-What are some factors they maybe having accidents?
+- Which aircrafts have less risk to have accidents?
+- What are some factors they maybe having accidents?
 
 ## The Dataset
 
